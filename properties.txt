@@ -1,0 +1,4 @@
+subjects,sub1,sub2,sub3,sub4,sub5,
+exams,ISA1,ISA2,ASSIGNMENT,ESA,AGGREGATE
+C:\Users\nagen\Desktop\python\project\project_s\,file
+C:\\Users\\nagen\\Desktop\\python\\PESU.ico,logofile
