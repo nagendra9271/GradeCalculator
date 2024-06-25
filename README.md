@@ -17,6 +17,6 @@
 
 # requirements
   1. tkinter UI of python
-  2. MY SQL databse
-  3. install SQL connector with python
+  2. MY SQL database
+  3. Install SQL connector with python
      
