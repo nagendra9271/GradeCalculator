@@ -1,11 +1,11 @@
 # GradeCalculator
 
 #About
-> There are four exams ISA1 ISA2 ASSIGNMENTS ESA <
-> ISA1 ISA2 exams each of for 40 marks ,ESA for 50 marks ,ASSIGNMENTS for 10 marks
-> AGGREGATE is calculated based on 50% from ESA ,20% each from ISA1,ISA2,10 % from assignments
-> If marks are already there then it will fetch information from database
-> Grade,Percentage will be given for each exam
+> * There are four exams ISA1 ISA2 ASSIGNMENTS ESA 
+> * ISA1 ISA2 exams each of for 40 marks ,ESA for 50 marks ,ASSIGNMENTS for 10 marks
+> * AGGREGATE is calculated based on 50% from ESA ,20% each from ISA1,ISA2,10 % from assignments
+> * If marks are already there then it will fetch information from database
+> * Grade,Percentage will be given for each exam
 
 # how to use
   1. `Login.py` file is the main file 
