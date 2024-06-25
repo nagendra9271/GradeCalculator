@@ -8,7 +8,7 @@
 > Grade,Percentage will be given for each exam
 
 # how to use
-  1. Login file is the main file 
+  1. `Login.py` file is the main file 
   2. You can chance the login name and password in `login.txt`
   3. In `properties.txt` you can edit the address of files and subject names so that it will work
   4. Studentdata file is completely related to the background logic
